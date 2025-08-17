@@ -1,4 +1,4 @@
-# 🌍 3D Solar System – Frontend Assignment
+# 🌍 3D Solar System 
 
 This project is a 3D interactive Solar System simulation using **Three.js**.
 
@@ -19,4 +19,5 @@ This project is a 3D interactive Solar System simulation using **Three.js**.
 No server or installation is required.
 
 ## 📦 Folder Structure
+
 
