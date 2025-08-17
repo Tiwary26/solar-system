@@ -1,23 +1,79 @@
-# 🌍 3D Solar System 
+3D Solar System Simulation
 
-This project is a 3D interactive Solar System simulation using **Three.js**.
+A 3D interactive Solar System simulation built using Three.js.
+This project visualizes planets orbiting around the sun with realistic animations and controls.
 
-## 🚀 Features
+🚀 Features
 
-- Realistic 3D models of all 8 planets + Sun
-- Circular orbital motion around the Sun
-- Adjustable speed control for each planet
-- Pause/Resume animation
-- Orbit rings
-- Star background for deep space feel
-- Tooltips on hover (planet names)
-## 📁 How to Run
+🪐 Orbital animation of planets around the Sun
 
-1. Download or clone the repository.
-2. Open `index.html` in any modern browser (Chrome/Edge/Firefox).
+🌍 Scaled sizes of planets & distances (simplified for visualization)
 
-No server or installation is required.
+🎛️ Speed controls to adjust orbiting speed
 
-## 📦 Folder Structure
+🌙 Optional features:
+
+Tooltips with planet information
+
+Dark mode toggle
+
+Camera zoom and rotation
+
+🛠️ Tech Stack
+
+HTML, JavaScript
+
+Three.js (for 3D rendering)
+
+📂 Project Structure
+solarsystem-project/
+│── index.html        # Main HTML file
+│── script.js         # Main logic with Three.js
+│── assets/           # (Optional) textures or images for planets
+│── README.md         # Project documentation
+
+⚙️ Installation & Usage
+
+Clone the repository:
+
+git clone https://github.com/your-username/solarsystem-project.git
+
+
+Open the project folder:
+
+cd solarsystem-project
+
+
+Open index.html in your browser.
+
+👉 No server setup is required (runs directly in browser).
+
+🎮 Controls
+
+Mouse Drag → Rotate camera around the Solar System
+
+Scroll → Zoom in/out
+
+UI Buttons (if added) → Adjust orbiting speed
+
+📸 Demo
+
+(Add screenshot or GIF of your Solar System here)
+
+🌟 Future Enhancements
+
+Add planet textures for realistic look
+
+Add asteroid belt
+
+Display orbit paths
+
+Show distance from Sun & revolution period
+
+👩‍💻 Author
+
+Developed by Sakshi ✨
+
+
 
 
